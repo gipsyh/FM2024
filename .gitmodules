@@ -10,3 +10,6 @@
 [submodule "rIC3-Minisat"]
 	path = rIC3-Minisat
 	url = git@github.com:gipsyh/rIC3.git
+[submodule "rIC3-CryptoMinisat"]
+	path = rIC3-CryptoMinisat
+	url = git@github.com:gipsyh/rIC3.git
