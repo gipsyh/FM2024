@@ -16,3 +16,6 @@
 [submodule "rIC3-CaDiCaL"]
 	path = rIC3-CaDiCaL
 	url = git@github.com:gipsyh/rIC3.git
+[submodule "IC3ref-GipSAT"]
+	path = IC3ref-GipSAT
+	url = git@github.com:gipsyh/IC3ref.git
