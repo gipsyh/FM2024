@@ -37,3 +37,9 @@
 [submodule "logic-form"]
 	path = logic-form
 	url = git@github.com:gipsyh/logic-form.git
+[submodule "minisat-rs"]
+	path = minisat-rs
+	url = git@github.com:gipsyh/minisat-rs.git
+[submodule "transys"]
+	path = transys
+	url = git@github.com:gipsyh/transys.git
