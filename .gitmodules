@@ -25,3 +25,9 @@
 [submodule "rIC3-GipSAT"]
 	path = rIC3-GipSAT
 	url = git@github.com:gipsyh/rIC3.git
+[submodule "aig-rs"]
+	path = aig-rs
+	url = git@github.com:gipsyh/aig-rs.git
+[submodule "aiger-rs"]
+	path = aiger-rs
+	url = git@github.com:gipsyh/aiger-rs.git
