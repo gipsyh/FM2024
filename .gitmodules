@@ -19,3 +19,6 @@
 [submodule "IC3ref-GipSAT"]
 	path = IC3ref-GipSAT
 	url = git@github.com:gipsyh/IC3ref.git
+[submodule "gipsat"]
+	path = gipsat
+	url = git@github.com:gipsyh/gipsat.git
