@@ -31,12 +31,12 @@
 [submodule "transys"]
 	path = transys
 	url = git@github.com:gipsyh/transys.git
-[submodule "satif"]
-	path = satif
-	url = git@github.com:gipsyh/satif.git
 [submodule "cadical-rs"]
 	path = cadical-rs
 	url = git@github.com:gipsyh/cadical-rs.git
 [submodule "cryptominisat-rs"]
 	path = cryptominisat-rs
 	url = git@github.com:gipsyh/cryptominisat-rs.git
+[submodule "satif"]
+	path = satif
+	url = https://github.com/gipsyh/satif.git
