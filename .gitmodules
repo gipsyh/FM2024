@@ -1,20 +1,8 @@
 [submodule "IC3ref-Minisat"]
 	path = IC3ref-Minisat
 	url = git@github.com:gipsyh/IC3ref.git
-[submodule "IC3ref-CaDiCaL"]
-	path = IC3ref-CaDiCaL
-	url = git@github.com:gipsyh/IC3ref.git
-[submodule "IC3ref-CryptoMinisat"]
-	path = IC3ref-CryptoMinisat
-	url = git@github.com:gipsyh/IC3ref.git
 [submodule "rIC3-Minisat"]
 	path = rIC3-Minisat
-	url = git@github.com:gipsyh/rIC3.git
-[submodule "rIC3-CryptoMinisat"]
-	path = rIC3-CryptoMinisat
-	url = git@github.com:gipsyh/rIC3.git
-[submodule "rIC3-CaDiCaL"]
-	path = rIC3-CaDiCaL
 	url = git@github.com:gipsyh/rIC3.git
 [submodule "IC3ref-GipSAT"]
 	path = IC3ref-GipSAT
