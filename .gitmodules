@@ -4,6 +4,3 @@
 [submodule "transys"]
 	path = transys
 	url = git@github.com:gipsyh/transys.git
-[submodule "cryptominisat-rs"]
-	path = cryptominisat-rs
-	url = git@github.com:gipsyh/cryptominisat-rs.git
