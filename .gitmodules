@@ -1,12 +1,6 @@
 [submodule "gipsat"]
 	path = gipsat
 	url = git@github.com:gipsyh/gipsat.git
-[submodule "aig-rs"]
-	path = aig-rs
-	url = git@github.com:gipsyh/aig-rs.git
-[submodule "giputils"]
-	path = giputils
-	url = git@github.com:gipsyh/giputils.git
 [submodule "logic-form"]
 	path = logic-form
 	url = git@github.com:gipsyh/logic-form.git
@@ -16,9 +10,6 @@
 [submodule "transys"]
 	path = transys
 	url = git@github.com:gipsyh/transys.git
-[submodule "cadical-rs"]
-	path = cadical-rs
-	url = git@github.com:gipsyh/cadical-rs.git
 [submodule "cryptominisat-rs"]
 	path = cryptominisat-rs
 	url = git@github.com:gipsyh/cryptominisat-rs.git

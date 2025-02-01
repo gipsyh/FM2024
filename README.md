@@ -1,1 +1,1 @@
-# GipSAT: A SAT solver specifically designed for the IC3 Algorithm
+# Deeply Optimizing the SAT Solver for the IC3 Algorithm
