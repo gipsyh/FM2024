@@ -1,18 +1,9 @@
 [submodule "gipsat"]
 	path = gipsat
 	url = git@github.com:gipsyh/gipsat.git
-[submodule "logic-form"]
-	path = logic-form
-	url = git@github.com:gipsyh/logic-form.git
-[submodule "minisat-rs"]
-	path = minisat-rs
-	url = git@github.com:gipsyh/minisat-rs.git
 [submodule "transys"]
 	path = transys
 	url = git@github.com:gipsyh/transys.git
 [submodule "cryptominisat-rs"]
 	path = cryptominisat-rs
 	url = git@github.com:gipsyh/cryptominisat-rs.git
-[submodule "satif"]
-	path = satif
-	url = https://github.com/gipsyh/satif.git
